@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc770150-3683-4d25-a742-09687f579f85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_7_kyu/IsItaTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_8_kyu/AreaofaSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_8_kyu/AreaofaSquare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,10 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\burak\Documents\CodewarsJavaSolutions\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_6_kyu" />
+      <recent name="_7_kyu" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -81,13 +86,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669309255270</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Is this a triangle?">
+      <created>1669309404382</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669309404382</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="initial commitasd" />
     <MESSAGE value="Valid Parentheses" />
-    <option name="LAST_COMMIT_MESSAGE" value="Valid Parentheses" />
+    <MESSAGE value="Is this a triangle?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Is this a triangle?" />
   </component>
 </project>
