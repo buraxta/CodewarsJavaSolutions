@@ -1,4 +1,4 @@
-public class Geometry{
+public class AreaofaSquare{
   public static double squareArea(double A){
      double radius = (4*A)/(2*Math.PI);
      double square = Math.pow(radius, 2);
