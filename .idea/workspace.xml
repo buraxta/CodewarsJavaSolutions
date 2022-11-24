@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc770150-3683-4d25-a742-09687f579f85" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/_7_kyu/VowelCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_8_kyu/AreaofaSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_8_kyu/AreaofaSquare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669309404382</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1669309641631</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669309641631</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <created>1669309677535</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669309677535</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -101,6 +115,7 @@
     <MESSAGE value="initial commitasd" />
     <MESSAGE value="Valid Parentheses" />
     <MESSAGE value="Is this a triangle?" />
-    <option name="LAST_COMMIT_MESSAGE" value="Is this a triangle?" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
