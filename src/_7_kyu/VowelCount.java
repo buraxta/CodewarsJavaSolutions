@@ -18,7 +18,6 @@ public class VowelCount {
         System.out.println(getCount("aass"));
     }
     public static int getCount(String str) {
-        String x = "asdasd";
         int result = 0;
         var vowels = Arrays.asList('a','e','i','o','u');
         for (int i = 0; i<str.length(); i++){
