@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc770150-3683-4d25-a742-09687f579f85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_8_kyu/Deneme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7_kyu/IsItaTriangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +60,34 @@
       <option name="project" value="LOCAL" />
       <updated>1669308870836</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commitasd">
+      <created>1669309129684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669309129684</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commitasd">
+      <created>1669309175946</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669309175946</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Valid Parentheses">
+      <created>1669309255270</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669309255270</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="initial commitasd" />
+    <MESSAGE value="Valid Parentheses" />
+    <option name="LAST_COMMIT_MESSAGE" value="Valid Parentheses" />
   </component>
 </project>
