@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc770150-3683-4d25-a742-09687f579f85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_6_kyu/EvenFibonacciSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bc770150-3683-4d25-a742-09687f579f85" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669311965367</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="EvenFibonacciSum">
+      <created>1669527538986</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669527538986</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -141,6 +144,7 @@
     <MESSAGE value="update" />
     <MESSAGE value="VowelCount" />
     <MESSAGE value="VowelCount update" />
-    <option name="LAST_COMMIT_MESSAGE" value="VowelCount update" />
+    <MESSAGE value="EvenFibonacciSum" />
+    <option name="LAST_COMMIT_MESSAGE" value="EvenFibonacciSum" />
   </component>
 </project>
