@@ -1,9 +1,14 @@
 package _5_kyu;
 
+// DNA dizilimi alan ve bunu istenilen indexten itibaren istenilen uzunluk aralığına kadar ters çevirerek return eden
+// bir method yazın.
+// Örnek: "ATG, ACT, GAT, GAG, AGA, TAT, TGA" -> 3 codons from 2th codon -> çıktı: "ATG, GAG, GAT, ACT, AGA, TAT, TGA
+
+
 import java.util.Arrays;
 import java.util.Stack;
 
-public class reverse_codons {
+public class Reverse_codons {
     public static void main(String[] args) {
         String ex = "ATG ACT GAT GAG AGA TAT TGA";
         String[] result = reverse(ex,2,3);
