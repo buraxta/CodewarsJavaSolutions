@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc770150-3683-4d25-a742-09687f579f85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_5_kyu/reverse_codons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_kyu/ComputeGivenString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/_5_kyu/First_non_repeated.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_kyu/First_non_repeated.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5_kyu/Reverse_codons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_kyu/Reverse_codons.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669655701199</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="First_non_repeated explanation">
+      <created>1669659493584</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1669659493584</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Reverse_codons">
+      <created>1669659777079</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1669659777079</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -173,6 +188,8 @@
     <MESSAGE value="Valid_Parentheses" />
     <MESSAGE value="non-repeated character" />
     <MESSAGE value="flag edition" />
-    <option name="LAST_COMMIT_MESSAGE" value="flag edition" />
+    <MESSAGE value="First_non_repeated explanation" />
+    <MESSAGE value="Reverse_codons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse_codons" />
   </component>
 </project>
