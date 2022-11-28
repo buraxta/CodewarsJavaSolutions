@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc770150-3683-4d25-a742-09687f579f85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_5_kyu/First_non_repeated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_kyu/reverse_codons.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5_kyu/First_non_repeated.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_kyu/First_non_repeated.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +144,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669527690564</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="non-repeated character">
+      <created>1669655660673</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669655660673</updated>
+    </task>
+    <task id="LOCAL-00014" summary="flag edition">
+      <created>1669655701199</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669655701199</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -156,27 +171,8 @@
     <MESSAGE value="VowelCount update" />
     <MESSAGE value="EvenFibonacciSum" />
     <MESSAGE value="Valid_Parentheses" />
-    <option name="LAST_COMMIT_MESSAGE" value="Valid_Parentheses" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/_5_kyu/First_non_repeated.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/_5_kyu/First_non_repeated.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/_5_kyu/First_non_repeated.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="non-repeated character" />
+    <MESSAGE value="flag edition" />
+    <option name="LAST_COMMIT_MESSAGE" value="flag edition" />
   </component>
 </project>

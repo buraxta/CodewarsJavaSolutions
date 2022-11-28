@@ -1,11 +1,10 @@
 package _5_kyu;
 
+// Write a fonction that returns first non-repeated character
 public class First_non_repeated {
     public static void main(String[] args) {
         System.out.println(first("a green apple"));
     }
-        // Write a fonction that returns first non-repeated character
-
     public static char first(String value){
         for (int i = 0; i<value.length(); i++){
             int flag = 0;
