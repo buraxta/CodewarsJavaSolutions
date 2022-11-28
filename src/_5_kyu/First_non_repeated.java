@@ -8,16 +8,16 @@ public class First_non_repeated {
 
     public static char first(String value){
         for (int i = 0; i<value.length(); i++){
-            int asd = 0;
+            int flag = 0;
                 if(value.charAt(i) == ' ')
                     continue;
             for (int j = i+1; j<value.length(); j++){
                 if (value.charAt(i) == value.charAt(j)){
-                    asd++;
+                    flag++;
                     break;
                 }
             }
-            if (asd == 0)
+            if (flag == 0)
                 return value.charAt(i);
             }
         return '>';
