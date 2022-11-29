@@ -28,7 +28,7 @@ public class StringCoomputer {
 //                    }
 //            }
 //        }
-        String[][] returnedValue = split("5+20-15+8*2");
+        String[][] returnedValue = split("5+20-15+8**2");
         String[] operand = returnedValue[0];
         String[] operators = returnedValue[1];
         System.out.println("Operand " + Arrays.toString(operand));
@@ -52,8 +52,19 @@ public class StringCoomputer {
                 operand[j++] = temp;
                 temp = "";
                 String tempOperator = "";
+                if (param.charAt(i) == '*'){
+                    tempOperator += "*";
+                    if (param.charAt(++i) == '*'){
+                        tempOperator += "*";
+                        operators[k++] = tempOperator;
+                    }else{
+                        operators[k++] = tempOperator;
+                    }
+                        }
+                else {
+                    operators[k++] = String.valueOf(param.charAt(i));
+                }
 
-                operators[k++] = String.valueOf(param.charAt(i));
             }
             if (i == param.length() - 1) {
                 operand[j] = temp;
