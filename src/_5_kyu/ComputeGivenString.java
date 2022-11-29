@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class ComputeGivenString {
     public static void main(String[] args) {
-        System.out.println(Arrays.toString(split("5+20-15+8")));
+        System.out.println(Arrays.toString(split("5+20-15+8**2")));
         String[][] returnedValue = split("5+20-15+8");
         String[] operand = returnedValue[0];
         String[] operators = returnedValue[1];
@@ -12,7 +12,7 @@ public class ComputeGivenString {
     }
     public static int Calc(String[] operand, String[] operators){
         int agregate = Integer.parseInt(operand[0]);
-        // 5 - (3 ** 2) * 2 * 3
+        // 2 + 5 - (3 ** 2) * 2 * 3 / 2 * 4 / 2
         for (int i = 1; i<operand.length; i++){
             if (operators[i].equals("+")){
                 agregate += Integer.parseInt(operand[i]);

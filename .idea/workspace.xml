@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc770150-3683-4d25-a742-09687f579f85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_5_kyu/ComputeGivenString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_kyu/StringCoomputer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_5_kyu/First_non_repeated.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_kyu/First_non_repeated.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_5_kyu/Reverse_codons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_kyu/Reverse_codons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5_kyu/ComputeGivenString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_kyu/ComputeGivenString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669659777079</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="sonuçlanamayan algoritma">
+      <created>1669669448461</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1669669448461</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,6 +196,7 @@
     <MESSAGE value="flag edition" />
     <MESSAGE value="First_non_repeated explanation" />
     <MESSAGE value="Reverse_codons" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reverse_codons" />
+    <MESSAGE value="sonuçlanamayan algoritma" />
+    <option name="LAST_COMMIT_MESSAGE" value="sonuçlanamayan algoritma" />
   </component>
 </project>
