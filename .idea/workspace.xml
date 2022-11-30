@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc770150-3683-4d25-a742-09687f579f85" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/_5_kyu/First_non_repeated_MOSH.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_5_kyu/StringCoomputer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_kyu/StringCoomputer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669721078716</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="çift yıldız ayırma işini de hallettik">
+      <created>1669722469787</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1669722469787</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -204,32 +211,7 @@
     <MESSAGE value="Reverse_codons" />
     <MESSAGE value="sonuçlanamayan algoritma" />
     <MESSAGE value="2 array ve sayılar, operatörler ayrıldı" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 array ve sayılar, operatörler ayrıldı" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/_5_kyu/StringCoomputer.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/_5_kyu/StringCoomputer.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/_5_kyu/StringCoomputer.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/_5_kyu/StringCoomputer.java</url>
-          <line>62</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="çift yıldız ayırma işini de hallettik" />
+    <option name="LAST_COMMIT_MESSAGE" value="çift yıldız ayırma işini de hallettik" />
   </component>
 </project>
